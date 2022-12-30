@@ -60,7 +60,6 @@ h3 {
 }
 
 
-
 /* APPLYING MEDIA QUERIES */
 @media (max-width: 375px) {
     .container {
@@ -91,3 +90,23 @@ h3 {
     }
 } 
 
+@media (max-width: 414px) {
+    .container {
+        width: 80%;
+        margin: auto;
+        margin-top: 40px;
+        padding: 10px;
+    }
+    
+    img {
+        height: 275px;
+        width: 260px;
+        border-radius: 5%;
+        display: block;
+        margin: auto;
+    }
+    
+    .text {
+        width: 95%;
+    }
+} 
