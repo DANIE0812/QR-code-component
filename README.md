@@ -33,8 +33,8 @@ The challenge was to build out a QR code component and get it looking as close t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-9WAn0C5aOM)
-- Live Site URL: [Add live site URL here](https://danie0812.github.io/QR-code-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-9WAn0C5aOM]
+- Live Site URL: [https://danie0812.github.io/QR-code-component/]
 
 ## My process
 
