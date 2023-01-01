@@ -8,13 +8,10 @@ Worked on the QR-code component challenge on Frontend Mentor. This was very exis
 
 **To do this challenge, a basic understanding of HTML and CSS was required.**
 
-## The challenge
-
-The challenge was to build out a QR code component and get it looking as close to the mobile and desktop design in the starter kit provided.
-
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -24,7 +21,11 @@ The challenge was to build out a QR code component and get it looking as close t
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-### Overview
+
+## Overview
+### The challenge
+
+The challenge was to build out a QR code component and get it looking as close to the mobile and desktop design in the starter kit provided.
 
 ### Screenshot
 
@@ -32,8 +33,8 @@ The challenge was to build out a QR code component and get it looking as close t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-9WAn0C5aOM)
+- Live Site URL: [Add live site URL here](https://danie0812.github.io/QR-code-component/)
 
 ## My process
 
@@ -43,11 +44,7 @@ The challenge was to build out a QR code component and get it looking as close t
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -61,11 +58,6 @@ To see how you can add code snippets, see below:
 ```css
 .proud-of-this-css {
   color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
 }
 ```
 
