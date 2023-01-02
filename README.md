@@ -42,22 +42,32 @@ The challenge was to build out a QR code component and get it looking as close t
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
+- Using a level-one heading (h1) even though it wasn't a full-page challenge. You can create an '<h1>' element within your 'main' element that will be hidden visually but visible and readable by screen readers. The class "sr-only" hides content visually and here are the styles to copy.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Don't skip heading levels; Always start from <h1>, followed by <h2>, and so on up to <h6> (<h1>,<h2>,...,<h6>). 
+
+- If the image is not a decoration like in the case of this project, it must have an alt attribute. The alt attribute should explain its purpose.
+
+- Instead of using pixels in font-size, use relative units like em or rem. The font-size in absolute units like pixels does not scale with the user's browser settings. This can cause accessibility issues for users who have set their browser to use a larger font size. You can read more about this here
 
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1 class="sr-only">QR Card Component</h1>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.sr-only:not(:focus):not(:active) {
+    clip: rect(0 0 0 0); 
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap; 
+    width: 1px;
 }
 ```
 
