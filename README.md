@@ -46,9 +46,9 @@ The challenge was to build out a QR code component and get it looking as close t
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
-- Using a level-one heading (h1) even though it wasn't a full-page challenge. You can create an '<h1>' element within your 'main' element that will be hidden visually but visible and readable by screen readers. The class "sr-only" hides content visually and here are the styles to copy.
+- Using a level-one heading (h1) even though it wasn't a full-page challenge. I  created an h1 element within the main element that was hidden visually but visible and readable by screen readers. The class sr-only hid the content visually.
 
-- Don't skip heading levels; Always start from <h1>, followed by <h2>, and so on up to <h6> (<h1>,<h2>,...,<h6>). 
+- Don't skip heading levels; Always start from h1, followed by h2, and so on up to h6 (h1,h2,...,h6). 
 
 - If the image is not a decoration like in the case of this project, it must have an alt attribute. The alt attribute should explain its purpose.
 
