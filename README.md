@@ -94,5 +94,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-Special shout-out to Melvin Aguilar 🧑🏻‍💻 (@MelvinAguilar) on frontend mentor for the corrections and insights.
+Special thanks to Melvin Aguilar 🧑🏻‍💻 (@MelvinAguilar) on frontend mentor for the corrections and insights.
 
