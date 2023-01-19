@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+
+
 ## Welcome! 👋
 
 Worked on the QR-code component challenge on Frontend Mentor. This was very existing and my first front-end coding challenge.
@@ -95,4 +97,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Acknowledgments
 
 Special thanks to Melvin Aguilar 🧑🏻‍💻 (@MelvinAguilar) on frontend mentor for the corrections and insights.
-
