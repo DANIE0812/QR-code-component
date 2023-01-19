@@ -1,7 +1,5 @@
 # Frontend Mentor - QR code component
 
-
-
 ## Welcome! 👋
 
 Worked on the QR-code component challenge on Frontend Mentor. This was very existing and my first front-end coding challenge.
@@ -74,21 +72,18 @@ Code snippets:
 ```
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 - Responsive Web Design
 - Web accessibility
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) - I learned that if you want to build the most-accessible product possible, you need to use both pixels and ems/rems. It's not an either/or situation. There are circumstances where rems are more accessible, and other circumstances where pixels are more accessible.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Resource 2](https://developer.mozilla.org/en-US/docs/Glossary/Screen_reader) - In terms of web accessibility, most user agents provide an accessibility object model and screen readers interact with dedicated accessibility APIs, using various operating system features and employing hooking techniques.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- GitHub - [@Danie0812](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
