@@ -46,6 +46,7 @@ The challenge was to build out a QR code component and get it looking as close t
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
+
 - Using a level-one heading (h1) even though it wasn't a full-page challenge. I  created an h1 element within the main element that was hidden visually but visible and readable by screen readers. The class sr-only hid the content visually.
 
 - Don't skip heading levels; Always start from h1, followed by h2, and so on up to h6 (h1,h2,...,h6). 
@@ -83,11 +84,9 @@ Code snippets:
 
 ## Author
 
-- GitHub - [@Danie0812](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- GitHub - [@Danie0812](https://github.com/DANIE0812)
+- Frontend Mentor - [@Danie0812](https://www.frontendmentor.io/profile/DANIE0812)
+- Twitter - [@MrEffiom](https://twitter.com/MrEffiom)
 
 ## Acknowledgments
 
